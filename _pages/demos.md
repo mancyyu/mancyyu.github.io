@@ -2,6 +2,9 @@
 title: "Demos"
 permalink: /Demos/
 author_profile: true
+redirect_from: 
+  - /demos/
+  - /demos.html
 ---
 
 ## StarCraft AI
