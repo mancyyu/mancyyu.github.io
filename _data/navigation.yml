@@ -10,14 +10,17 @@ main:
   #   url: /awards/
 
   - title: "Talks"
-    url: /talks/    
+  url: /talks/
 
   # - title: "Teaching"
   #   url: /teaching/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
-        
+ 
+ - title: "Demos"
+    url: /demos/
+    
   - title: "Blogs"
     url: /year-archive/
     
