@@ -5,6 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
+* **TOP 5**, AI Challenger 2018 in Weather Forecasting. 2018
 * **National First Prize**, China Undergraduate Mathematical Contest in Modeling. 2017
 * **Meritorious Winner**, Mathematical Contest In Modeling. 2017
 * Third Prize, ACM Competition of Southwest Jiaotong University. 2017
