@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Click to View My Up-to-date Curriculum Vitae [PDF]](http://ericonaldo.github.io/files/mhliu_cv.pdf)
+[Click to View My Up-to-date Curriculum Vitae [PDF]](http://ericonaldo.github.io/files/minghuanliu_cv.pdf)(update in Oct. 2018)
 
 <!-- <embed src="http://ericonaldo.github.io/files/mhliu_cv.pdf" width="650" height="1800" type='application/pdf'> -->
