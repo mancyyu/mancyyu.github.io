@@ -19,4 +19,4 @@ redirect_from:
 
 
 # Recent News
-
+* 2019.2.26 A paper is submitted to IJCAI 2019.
