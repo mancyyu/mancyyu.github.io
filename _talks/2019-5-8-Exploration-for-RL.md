@@ -9,4 +9,4 @@ location: "Shanghai, China"
 ---
 
 A survey of exploration researches in Reinforcement Learning. <br>
-[[Slide]](http://ericonaldo.github.io/files/2019-5-8-Exploration-for-RL.pdf)
+[[Slide]](http://ericonaldo.github.io/files/2019-5-8-Exploration-for-RL.pdf)[[Document(Chinese)]](http://ericonaldo.github.io/files/exploration-talk.pdf)
