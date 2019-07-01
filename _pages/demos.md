@@ -9,7 +9,7 @@ redirect_from:
 
 ## Data Mining Competition
 
-<b>[Liver Cancer Imaging AI Diagnosis](/files/Liver-Cancer-Diagnosis.mp4)</b>
+<b>[Liver Cancer Imaging AI Diagnosis](/files/Liver-Cancer-Diagnosis.mp4)</b><br>
 This is the presentation video for our work in Liver Cancer Imaging AI Diagnosis. [[Link]](https://www.datafountain.cn/competitions/335)<br>
 <i>Data Mining Competition</i>
 

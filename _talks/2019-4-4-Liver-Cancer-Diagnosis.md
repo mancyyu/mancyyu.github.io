@@ -1,9 +1,9 @@
 ---
-title: "Exploration for Reinforcement Learning"
+title: "Liver Cancer Diagnosis"
 collection: talks
 type: "Talk"
 permalink: /talks/2019-4-4-Liver-Cancer-Diagnosis
-venue: "Fuzhou, Fujian"
+venue: "Software Center, Fuzhou"
 date: 2019-04-04
 location: "Fujian, China"
 ---
