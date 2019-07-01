@@ -9,4 +9,9 @@ location: "Beijing, China"
 ---
 
 An introduction of our work in Deecamp2018 which achieved StarCraft AI with Deep Reinforcement Learning. <br>
+
+In ihis work we first use reward shaping for StarCraft Minigame-CollectMineralShards and we gain higher scores than previous benchmark.[[Demo-Video]](/files/SC_AI_for_Minigame-BuildMarines.mp4)[[Code]](https://github.com/Ericonaldo/pysc2_minimap_agents)
+
+Then we use hierarchical learning for StarCraft Minigame--BuildMarines and we gain higher scores than previous benchmark.[[Demo-Video]](/files/SC_AI_for_Minigame-BuildMarines.mp4)[[Code]] <br>
+
 [[Slide]](http://ericonaldo.github.io/files/2018-8-23-Deep-RL-for-StarCraft-II.pptx)
