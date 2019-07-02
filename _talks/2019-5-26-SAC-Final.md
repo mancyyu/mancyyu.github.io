@@ -2,7 +2,7 @@
 title: "Exploration for Reinforcement Learning"
 collection: talks
 type: "Talk"
-permalink: /talks/2019-5-8-Exploration-for-RL
+permalink: /talks/2019-5-26-SAC-Final
 venue: "Parc des Princes"
 date: 2019-05-08
 location: "Paris, French"
