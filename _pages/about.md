@@ -23,7 +23,7 @@ redirect_from:
 
 * I received my Bachelor’s Degree at [Southwest Jiao Tong University](http://www.swjtu.edu.cn/) at June 2019. I am now pursuing my Ph.D degree in [Apex Lab.](http://apex.sjtu.edu.cn) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) supervised by [Prof. Weinan Zhang](http://wnzhang.net/) and [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu). [[Curriculum Vitae]](/files/minghuanliu_cv.pdf)(update in July. 2019)
 
-I love playing football and I am a fan of Shandong Luneng Taishan, I want to make things on football with AI.
+* I love playing football and I am a fan of Shandong Luneng Taishan, I want to make things on football with AI.
 
 * My current research interests lie in the general area of reinforcement learning, particularly in multi-agent systems.
 
