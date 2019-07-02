@@ -33,3 +33,6 @@ redirect_from:
 * Mar. 23, 2019. Win the TOP10 of the SCADA Data Missing Repair Competition. [[Link]](https://www.datafountain.cn/competitions/333)[[News]](https://mp.weixin.qq.com/s/FKtJ-W3h8u5Rwikpym1Ibw)
 * Feb. 26, 2019. A paper was submitted to IJCAI 2019.
 * Nov. 19, 2018. Win the TOP3 of the Weather Forecast Competition of AI Challenger 2018. [[Link]](https://challenger.ai)[[News]](https://challenger.ai//ai_challenger_2018_winners)
+
+
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=rDlsdB4pV8wqXioR_ge-XrLwUTX3P199VHcYBtdl-wU"></script>
