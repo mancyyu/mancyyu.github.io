@@ -32,3 +32,4 @@ redirect_from:
 * Apr. 4, 2019. Win the TOP5 of the Liver Cancer Imaging AI Diagnosis. [[Link]](https://www.datafountain.cn/competitions/335)[[News]](https://mp.weixin.qq.com/s/yA_M4u71RLKoFKuKd9Jqiw)
 * Mar. 23, 2019. Win the TOP10 of the SCADA Data Missing Repair Competition. [[Link]](https://www.datafountain.cn/competitions/333)[[News]](https://mp.weixin.qq.com/s/FKtJ-W3h8u5Rwikpym1Ibw)
 * Feb. 26, 2019. A paper was submitted to IJCAI 2019.
+* Nov. 19, 2018. Win the TOP3 of the Weather Forecast Competition of AI Challenger 2018. [[Link]](https://challenger.ai)[[News]](https://challenger.ai//ai_challenger_2018_winners)
