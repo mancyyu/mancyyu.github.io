@@ -37,7 +37,7 @@ redirect_from:
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=rDlsdB4pV8wqXioR_ge-XrLwUTX3P199VHcYBtdl-wU"></script>
 
-<!-- Default Statcounter code for My personal site  -->
+<!-- Default Statcounter code for My personal site  
 <script type="text/javascript">
 var sc_project=12037091; 
 var sc_invisible=0; 
@@ -51,4 +51,4 @@ document.write("<sc"+"ript type='text/javascript' src='" + scJsHost+
 StatCounter" href="https://statcounter.com/" target="_blank"><img
 class="statcounter" src="https://c.statcounter.com/12037091/0/f3e3a82d/0/"
 alt="Web Analytics Made Easy - StatCounter"></a></div></noscript>
-<!-- End of Statcounter Code -->
+ End of Statcounter Code -->
