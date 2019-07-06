@@ -1,5 +1,5 @@
 ---
-title: "Exploration for Reinforcement Learning"
+title: "Evaluation/Identification the Patterns of Genepressing"
 collection: talks
 type: "Talk"
 permalink: /talks/2019-5-8-Exploration-for-RL
