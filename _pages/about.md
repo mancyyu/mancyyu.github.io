@@ -30,6 +30,7 @@ redirect_from:
 
 
 # Recent News
+* Sept. 25, 2019. A paper was submitted to ICLR 2020.
 * May. 26, 2019. Become a finalist and win the TOP6 of Sports Analytics Challenge sponsored by PSG. [[Link]](https://www.agorize.com/en/challenges/xpsg/pages/brief)[[News]](https://www.agorize.com/en/challenges/xpsg/pages/finale?lang=en)
 * Apr. 4, 2019. Win the TOP5 of the Liver Cancer Imaging AI Diagnosis. [[Link]](https://www.datafountain.cn/competitions/335)[[News]](https://mp.weixin.qq.com/s/yA_M4u71RLKoFKuKd9Jqiw)
 * Mar. 23, 2019. Win the TOP10 of the SCADA Data Missing Repair Competition. [[Link]](https://www.datafountain.cn/competitions/333)[[News]](https://mp.weixin.qq.com/s/FKtJ-W3h8u5Rwikpym1Ibw)
