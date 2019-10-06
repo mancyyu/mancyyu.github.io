@@ -2,9 +2,9 @@
 title: "Collections"
 permalink: /collections/
 author_profile: true
-redirect_from: 
-  - /collections/
-  - /collections.html
+#redirect_from: 
+#  - /collections/
+#  - /collections.html
 ---
 
 <b>RL-Exploration-Paper-Lists</b><br>
