@@ -30,6 +30,7 @@ redirect_from:
 
 
 # Recent News
+* Oct. 6, 2019. Start to keep a document called [Football-Analytics-101](https://football-analytics-101.readthedocs.io) on football analytics.
 * Sept. 25, 2019. A paper was submitted to ICLR 2020.
 <!--* July 30, our paper "Automatic Proofreading in Chinese: Detect and Correct Spelling Errors in Character-level with Deep Neural" was accepted by NLPCC2020 (CCF-C), work was done when I was undergraduate.-->
 <!--* July 30, our paper "Generative Adversarial Exploration for Reinforcement Learning" was accepted by DAI2019, work was done when I was undergraduate.-->
