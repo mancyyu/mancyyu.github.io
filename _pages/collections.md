@@ -12,3 +12,6 @@ Collections of powerful RL architectures with brief introductions, including rep
 
 <b>[Football-Analytics-101](https://github.com/Ericonaldo/Football-Analytics-101)</b><br>
 Collections of useful information about football analytics.<br>
+
+<b>[Imitation-Learning-Paper-Lists](https://github.com/Ericonaldo/Imitation-Learning-Paper-Lists)</b><br>
+Paper Collection for Imitation Learning in RL.<br>
