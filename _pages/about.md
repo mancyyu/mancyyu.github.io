@@ -21,14 +21,14 @@ redirect_from:
 [//]: # 
     Tuchel and Me!
 
-* I received my Bachelor’s Degree at [Southwest Jiao Tong University](http://www.swjtu.edu.cn/) at June 2019. I am now pursuing my Ph.D degree in [Apex Lab.](http://apex.sjtu.edu.cn) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) supervised by [Prof. Weinan Zhang](http://wnzhang.net/) and [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu). [[Curriculum Vitae]](/files/minghuanliu_cv.pdf)(update in Jan. 2020)
+* I received my Bachelor’s Degree at [Southwest Jiao Tong University](http://www.swjtu.edu.cn/) at June 2019. I am now pursuing my Ph.D. degree in [Apex Lab.](http://apex.sjtu.edu.cn) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) supervised by [Prof. Weinan Zhang](http://wnzhang.net/) and [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu). [[Curriculum Vitae]](/files/minghuanliu_cv.pdf)(update in Jan. 2020)
 
-* My current research interests lie in the general area of reinforcement learning, particularly in imitation learning and multi-agent systems. When I read interesting paper I write down notes in Chinese at [Zhihu](https://www.zhihu.com/people/eric-liu-57-75/posts).
+* My current research interests lie in the general area of reinforcement learning, particularly in imitation learning and multi-agent systems. When I read interesting papers I will write down notes in Chinese at [Zhihu](https://www.zhihu.com/people/eric-liu-57-75/posts).
 
 * I love playing football (soccer) and I am a fan of [Shandong Luneng Taishan](http://www.lnts.com.cn/), I am always interested in making things on football with AI. 
     * Click [[demo-1]](/files/sac-demo1.mp4) and [[demo-2]](/files/sac-demo2.mp4) to see some interesting gadgets I've made for football analysis during the Sports Analytics Challenge sponsored by PSG. 
-    * Click [[doc-1]](/files/mot_project.pdf) to see a small project that I've made with my classmates about Multi-Object Tracking for basketball players on NCAA vedio dataset. 
-    * I rencent start to keep a document called [Football-Analytics-101](https://football-analytics-101.readthedocs.io) on football analytics activated by [NBAStuffer-Analytics-101](https://www.nbastuffer.com/analytics-101/), in order to provide ordered, collected and detailed, information about football (soccer) analytics for research works and interesting stuff. I will be geard towards collecting such information and try to find interesting topics to do as a research hobby.
+    * Click [[doc-1]](/files/mot_project.pdf) to see a small project that I've made with my classmates about Multi-Object Tracking for basketball players on NCAA video dataset. 
+    * I recently start to keep a document called [Football-Analytics-101](https://football-analytics-101.readthedocs.io) on football analytics activated by [NBAStuffer-Analytics-101](https://www.nbastuffer.com/analytics-101/), in order to provide ordered, collected and detailed, information about football (soccer) analytics for research works and interesting stuff. I will be geard towards collecting such information and try to find interesting topics to do as a research hobby.
 
 
 
