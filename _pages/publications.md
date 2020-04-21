@@ -11,6 +11,8 @@ author_profile: true
 <b>Minghuan Liu</b>, Tairan He, Minkai Xu, Weinan Zhang.
 <i>Arxiv Preprint</i>. <b>Arxiv</b>.
 
+<br> 
+
 <br>
 <b>Multi-Agent Interactions Modeling with Correlated Policies</b> <br> 
 <b>Minghuan Liu</b>, Ming Zhou, Weinan Zhang, Yuzheng Zhuang, Jun Wang, Wulong Liu,  Yong Yu.
