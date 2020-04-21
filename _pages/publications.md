@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+<br>
+<b>Energy-Based Imitation Learning</b> <br> 
+<b>Minghuan Liu</b>, Tairan He, Minkai Xu, Weinan Zhang.
+<i>Arxiv Preprint</i>. <b>Arxiv</b>.
+
 <br>
 <b>Multi-Agent Interactions Modeling with Correlated Policies</b> <br> 
 <b>Minghuan Liu</b>, Ming Zhou, Weinan Zhang, Yuzheng Zhuang, Jun Wang, Wulong Liu,  Yong Yu.
