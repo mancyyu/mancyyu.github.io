@@ -15,8 +15,8 @@ main:
   #- title: "Demos"
   #  url: /demos/
 
-  - title: "Awards & Honors"
-    url: /awards/
+  # - title: "Awards & Honors"
+  #  url: /awards/
 
   # - title: "Teaching"
   #   url: /teaching/    
