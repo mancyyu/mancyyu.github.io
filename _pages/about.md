@@ -27,7 +27,7 @@ redirect_from:
 
 * Football (soccer), Forward, A fan of [Shandong Luneng Taishan](http://www.lnts.com.cn/), A beginner of football analystics with AI. 
     * Click [[demo-1]](/files/sac-demo1.mp4) and [[demo-2]](/files/sac-demo2.mp4) to see some interesting gadgets I've made for football analysis during the Sports Analytics Challenge sponsored by PSG. 
-    * Click [[doc-1]](/files/mot_project.pdf) to see a small project that I've made with my classmates about Multi-Object Tracking for basketball players on NCAA video dataset. 
+    <!-- * Click [[doc-1]](/files/mot_project.pdf) to see a small project that I've made with my classmates about Multi-Object Tracking for basketball players on NCAA video dataset. -->
     * Recently start to keep a document called [Football-Analytics-101](https://football-analytics-101.readthedocs.io) on football analytics activated by [NBAStuffer-Analytics-101](https://www.nbastuffer.com/analytics-101/), in order to provide ordered, collected and detailed, information about football (soccer) analytics for research works and interesting stuff. <!-- I will be geard towards collecting such information and try to find interesting topics to do as a research hobby.-->
 
 
