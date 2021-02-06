@@ -9,7 +9,7 @@ author_profile: true
 <br>
 <b>Energy-Based Imitation Learning</b> <br> 
 <b>Minghuan Liu</b>, Tairan He, Minkai Xu, Weinan Zhang.
-<i>The 20th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2021.</i>. <b>AAMAS 2021</b>. <font color="red"><em><strong>(Oral)</strong></em></font>. [<a href="https://arxiv.org/abs/2004.09395">paper</a>][<a href="https://github.com/apexrl/EBIL-torch">code</a>]
+<i>The 20th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2021</i>. <b>AAMAS 2021</b>. <font color="red"><em><strong>(Oral)</strong></em></font>. [<a href="https://arxiv.org/abs/2004.09395">paper</a>][<a href="https://github.com/apexrl/EBIL-torch">code</a>]
 
 <br> 
 
