@@ -8,7 +8,7 @@ author_profile: true
 <br>
 <b>MapGo: Model-Assisted Policy Optimization for Goal-Oriented Tasks</b> <br>
 Menghui Zhu*, <b>Minghuan Liu*</b>, Jian Shen, Zhicheng Zhang, Sheng Chen, Weinan Zhang, Deheng Ye, Yong Yu, Qiang Fu, Wei Yang <br> 
-* Equal Contribution. <br> 
+\* Equal Contribution. <br> 
 <i>The 30th International Joint Conference on Artificial Intelligence (IJCAI), 2021</i>. <b>IJCAI 2021</b> [<a href="https://arxiv.org/">paper</a>][<a href="https://github.com/apexrl">code</a>]
 
 <br>
