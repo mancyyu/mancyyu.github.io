@@ -33,6 +33,7 @@ redirect_from:
 
 
 # Recent News
+* Apr. 29, 2021. One paper accepted to IJCAI 2021.
 * Dec. 18, 2020. One paper accepted to AAMAS 2021.
 * Dec. 20, 2019. One paper accepted to ICLR 2020.
 * Oct. 6, 2019. Start to keep a document called [Football-Analytics-101](https://football-analytics-101.readthedocs.io) on football analytics.
