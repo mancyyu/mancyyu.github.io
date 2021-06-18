@@ -7,7 +7,7 @@ author_profile: true
 
 <br>
 <b>	Learning to Build High-fidelity and Robust Environment Models </b> <br>
-Weinan Zhang, Zhengyu Ynag, Jian Shen, <b>Minghuan Liu*</b>, Yimin, Huang, Xing, Zhang, Ruiming, Tang, Zhenguo Li<br> 
+Weinan Zhang, Zhengyu Ynag, Jian Shen, <b>Minghuan Liu</b>, Yimin, Huang, Xing, Zhang, Ruiming, Tang, Zhenguo Li<br> 
 <i>The 20th European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2021</i>. <b>ECML-PKDD 2021</b> [<a href="https://arxiv.org/">paper</a>][<a href="https://github.com/apexrl/">code</a>]
 
 
