@@ -33,6 +33,7 @@ redirect_from:
 
 
 # Recent News
+* June. 19, 2021. One paper accepted to ECML-PKDD 2021.
 * Apr. 29, 2021. One paper accepted to IJCAI 2021.
 * Dec. 18, 2020. One paper accepted to AAMAS 2021.
 * Dec. 20, 2019. One paper accepted to ICLR 2020.
