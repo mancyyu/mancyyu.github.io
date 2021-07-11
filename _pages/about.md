@@ -14,14 +14,14 @@ redirect_from:
 </p>
 
 
-<!--* I am an undergraduate student in the Computer Science Department at [Southwest Jiao Tong University](http://www.swjtu.edu.cn/) and I am an admitted Ph.D student of [Apex Lab.](http://apex.sjtu.edu.cn) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). [[Curriculum Vitae]](/files/minghuanliu_cv.pdf)(update in Apr. 2019)
+<!--* I am an undergraduate student in the Computer Science Department at [Southwest Jiao Tong University](http://www.swjtu.edu.cn/) and I am an admitted Ph.D student of [Apex Lab.](http://apex.sjtu.edu.cn) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). [[Curriculum Vitae]](/files/minghuanliu_cv.pdf)(update in Sept. 2019)
     * I will receive my Bachelor’s Degree at June 2019. My undergraduate research advisors are [Prof. Tianrui Li](http://userweb.swjtu.edu.cn/Userweb/trli30/index.htm) and my Ph.D research advisors will be [Prof. Weinan Zhang](http://wnzhang.net/) and [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu).
 -->
 
-[//]: # 
+[//]: #
     Tuchel and Me!
 
-* I received my Bachelor’s Degree at [Southwest Jiao Tong University](http://www.swjtu.edu.cn/) at June 2019. I am now pursuing my Ph.D. degree in [Apex Lab.](http://apex.sjtu.edu.cn) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) supervised by [Prof. Weinan Zhang](http://wnzhang.net/) and [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu). [[Curriculum Vitae]](/files/minghuanliu_cv.pdf)(update in Jan. 2021)
+* I received my Bachelor’s Degree at [Southwest Jiao Tong University](http://www.swjtu.edu.cn/) at June 2019. I am now pursuing my Ph.D. degree in [Apex Lab.](http://apex.sjtu.edu.cn) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) supervised by [Prof. Weinan Zhang](http://wnzhang.net/) and [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu). [[Curriculum Vitae]](/files/minghuanliu_cv.pdf) (update in July 2021)
 
 * My current research interests lie in the general area of reinforcement learning, particularly in imitation learning and multi-agent systems. When I read interesting papers I will write down notes in Chinese at [Zhihu](https://www.zhihu.com/people/eric-liu-57-75/posts).
 
