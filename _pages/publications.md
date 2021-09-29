@@ -10,12 +10,14 @@ author_profile: true
 <b>Minghuan Liu</b>, Hanye Zhao, Zhengyu Yang, Jian Shen, Weinan Zhang, Li Zhao, Tie-Yan Liu<br> 
 <i>The thirty-fifth Conference on Neural Information Processing Systems, 2021</i>. <b>NeurIPS 2021</b> [<a href="https://nips.cc/Conferences/2021/Dates">paper</a>] [<a href="https://github.com/apexrl">code</a>]
 
+<br>
 
 <br>
 <b>	Learning to Build High-fidelity and Robust Environment Models </b> <br>
 Weinan Zhang, Zhengyu Yang, Jian Shen, <b>Minghuan Liu</b>, Yimin Huang, Xing Zhang, Ruiming Tang, Zhenguo Li<br> 
 <i>The 20th European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2021</i>. <b>ECML-PKDD 2021</b> [<a href="https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_46.pdf">paper</a>] [<a href="https://github.com/apexrl/RL2S">code</a>]
 
+<br>
 
 <br>
 <b>MapGo: Model-Assisted Policy Optimization for Goal-Oriented Tasks</b> <br>
