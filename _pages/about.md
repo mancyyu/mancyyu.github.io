@@ -33,6 +33,7 @@ redirect_from:
 
 
 # Recent News
+* Nov. 18, 2021. Become a small contributor to OpenAI gym :).
 * Sept. 29, 2021. One paper accepted to NeurIPS 2021.
 * June. 19, 2021. One paper accepted to ECML-PKDD 2021.
 * Apr. 29, 2021. One paper accepted to IJCAI 2021.
