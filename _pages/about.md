@@ -23,7 +23,7 @@ redirect_from:
 
 * I received my Bachelor’s Degree at [Southwest Jiao Tong University](http://www.swjtu.edu.cn/) at June 2019. I am now pursuing my Ph.D. degree in [Apex Lab.](http://apex.sjtu.edu.cn) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/) supervised by [Prof. Weinan Zhang](http://wnzhang.net/) and [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu). Currently I am the group leader of [ApexRL](https://github.com/apexrl), the RL research group of Apex Lab. [[Curriculum Vitae]](/files/minghuanliu_cv.pdf) (update in Jan. 2022)
 
-* My current research interests lie in the general area of reinforcement learning, particularly in imitation learning and multi-agent systems. When I read interesting papers I will write down notes in Chinese at [Zhihu](https://www.zhihu.com/people/eric-liu-57-75/posts).
+* My current research interests lie in the general area of reinforcement learning, including imitation learning, offline RL and RL in multi-agent systems. Particularly, I was devoted in utilizing (data-driven) RL methods towards solving real-world decision-making challenges. When I read interesting papers I will write down notes in Chinese at [Zhihu](https://www.zhihu.com/people/eric-liu-57-75/posts).
 
 * Football (soccer), Forward, A fan of [Shandong Luneng Taishan](http://www.lnts.com.cn/), A beginner of football analystics with AI. 
     * Click [[demo-1]](/files/sac-demo1.mp4) and [[demo-2]](/files/sac-demo2.mp4) to see some interesting gadgets I've made for football analysis during the Sports Analytics Challenge sponsored by PSG. 
