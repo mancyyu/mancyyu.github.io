@@ -1,9 +1,21 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications / Preprints"
 permalink: /publications/
 author_profile: true
 ---
+
+<br>
+<b>	Plan Your Target and Learn Your Skills: Transferable State-Only Imitation Learning via Decoupled Policy Optimization </b> <br>
+<b>Minghuan Liu</b>, Zhengbang Zhu, Yuzheng Zhuang, Weinan Zhang, Jianye Hao, Yong Yu, Jun Wang<br> 
+<i>ArXiv:2203.02214, 2022</i>. <b>Arxiv</b> [<a href="https://arxiv.org/abs/2111.02056">paper</a>]
+
+<br>
+
+<br>
+<b>	Goal-Conditioned Reinforcement Learning: Problems and Solutions </b> <br>
+<b>Minghuan Liu</b>, Menghui Zhu, Weinan Zhang<br> 
+<i>ArXiv:2201.08299, 2022</i>. <b>Arxiv</b> [<a href="https://arxiv.org/abs/2201.08299">paper</a>]
 
 <br>
 <b>	Curriculum Offline Imitation Learning </b> <br>
