@@ -17,9 +17,14 @@ Yang Guan*, <b>Minghuan Liu*</b>, Weijun Hong, Weinan Zhang, Fei Fang, Guangjun 
 <i>ArXiv:2203.02214, 2022</i>. <b>Arxiv</b> [<a href="https://arxiv.org/abs/2111.02056">paper</a>]
 
 <br>
+<b>	Towards Applicable Reinforcement Learning: Improving the Generalization and Sample Efficiency with Policy Ensemble </b> <br>
+Zhengyu Yang, Kan Ren, Fangming Luo, <b>Minghuan Liu</b>, Weiqing Liu, Jiang Bian, Weinan Zhang, Dongsheng Li<br> 
+<i>The 31st International Joint Conference on Artificial Intelligence</i>. <b>IJCAI 2022</b> [<a href="to_be_public">paper</a>]
+
+<br>
 <b>	Goal-Conditioned Reinforcement Learning: Problems and Solutions </b> <br>
 <b>Minghuan Liu</b>, Menghui Zhu, Weinan Zhang<br> 
-<i>ArXiv:2201.08299, 2022</i>. <b>Arxiv</b> [<a href="https://arxiv.org/abs/2201.08299">paper</a>]
+<i>The 31st International Joint Conference on Artificial Intelligence</i>. <b>IJCAI 2022 (Survey track)</b> [<a href="https://arxiv.org/abs/2201.08299">paper</a>]
 
 <br>
 <b>	Curriculum Offline Imitation Learning </b> <br>
