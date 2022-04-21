@@ -33,12 +33,13 @@ redirect_from:
 
 
 # Recent News
+* Apr. 21, 2022. Two papers accepted by IJCAI 2021.
 * Nov. 18, 2021. Become a small contributor to OpenAI gym :).
-* Sept. 29, 2021. One paper accepted to NeurIPS 2021.
-* June. 19, 2021. One paper accepted to ECML-PKDD 2021.
-* Apr. 29, 2021. One paper accepted to IJCAI 2021.
-* Dec. 18, 2020. One paper accepted to AAMAS 2021.
-* Dec. 20, 2019. One paper accepted to ICLR 2020.
+* Sept. 29, 2021. One paper accepted by NeurIPS 2021.
+* June. 19, 2021. One paper accepted by ECML-PKDD 2021.
+* Apr. 29, 2021. One paper accepted by IJCAI 2021.
+* Dec. 18, 2020. One paper accepted by AAMAS 2021.
+* Dec. 20, 2019. One paper accepted by ICLR 2020.
 * Oct. 6, 2019. Start to keep a document called [Football-Analytics-101](https://football-analytics-101.readthedocs.io) on football analytics.
 <!--* Sept. 25, 2019. A paper was submitted to ICLR 2020.-->
 <!--* July 30, our paper "Automatic Proofreading in Chinese: Detect and Correct Spelling Errors in Character-level with Deep Neural" was accepted by NLPCC2020 (CCF-C), work was done when I was undergraduate.-->
