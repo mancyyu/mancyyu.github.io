@@ -14,7 +14,7 @@ Yang Guan*, <b>Minghuan Liu*</b>, Weijun Hong, Weinan Zhang, Fei Fang, Guangjun 
 <br>
 <b>	Plan Your Target and Learn Your Skills: Transferable State-Only Imitation Learning via Decoupled Policy Optimization </b> <br>
 <b>Minghuan Liu</b>, Zhengbang Zhu, Yuzheng Zhuang, Weinan Zhang, Jianye Hao, Yong Yu, Jun Wang<br> 
-<i>ArXiv:2203.02214, 2022</i>. <b>Arxiv</b> [<a href="https://arxiv.org/abs/2111.02056">paper</a>]
+<i>Thirty-ninth International Conference on Machine Learning</i>. <b>ICML 2022</b> [<a href="https://arxiv.org/abs/2111.02056">paper</a>]
 
 <br>
 <b>	Towards Applicable Reinforcement Learning: Improving the Generalization and Sample Efficiency with Policy Ensemble </b> <br>
@@ -23,12 +23,14 @@ Zhengyu Yang, Kan Ren, Fangming Luo, <b>Minghuan Liu</b>, Weiqing Liu, Jiang Bia
 
 <br>
 <b>	Goal-Conditioned Reinforcement Learning: Problems and Solutions </b> <br>
-<b>Minghuan Liu</b>, Menghui Zhu, Weinan Zhang<br> 
+<b>Minghuan Liu*</b>, Menghui Zhu*, Weinan Zhang<br> 
+\* Equal Contribution. <br> 
 <i>The 31st International Joint Conference on Artificial Intelligence</i>. <b>IJCAI 2022 (Survey track)</b> [<a href="https://arxiv.org/abs/2201.08299">paper</a>]
 
 <br>
 <b>	Curriculum Offline Imitation Learning </b> <br>
-<b>Minghuan Liu</b>, Hanye Zhao, Zhengyu Yang, Jian Shen, Weinan Zhang, Li Zhao, Tie-Yan Liu<br> 
+<b>Minghuan Liu*</b>, Hanye Zhao*, Zhengyu Yang, Jian Shen, Weinan Zhang, Li Zhao, Tie-Yan Liu<br> 
+\* Equal Contribution. <br> 
 <i>The thirty-fifth Conference on Neural Information Processing Systems, 2021</i>. <b>NeurIPS 2021</b> [<a href="https://arxiv.org/abs/2111.02056">paper</a>] [<a href="https://github.com/apexrl/coil">code</a>]
 
 <br>
