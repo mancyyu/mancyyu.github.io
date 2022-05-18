@@ -23,13 +23,13 @@ Zhengyu Yang, Kan Ren, Fangming Luo, <b>Minghuan Liu</b>, Weiqing Liu, Jiang Bia
 
 <br>
 <b>	Goal-Conditioned Reinforcement Learning: Problems and Solutions </b> <br>
-<b>Minghuan Liu*</b>, Menghui Zhu*, Weinan Zhang<br> 
+<b>Minghuan Liu\*</b>, Menghui Zhu*, Weinan Zhang<br> 
 \* Equal Contribution. <br> 
 <i>The 31st International Joint Conference on Artificial Intelligence</i>. <b>IJCAI 2022 (Survey track)</b> [<a href="https://arxiv.org/abs/2201.08299">paper</a>]
 
 <br>
 <b>	Curriculum Offline Imitation Learning </b> <br>
-<b>Minghuan Liu*</b>, Hanye Zhao*, Zhengyu Yang, Jian Shen, Weinan Zhang, Li Zhao, Tie-Yan Liu<br> 
+<b>Minghuan Liu\*</b>, Hanye Zhao*, Zhengyu Yang, Jian Shen, Weinan Zhang, Li Zhao, Tie-Yan Liu<br> 
 \* Equal Contribution. <br> 
 <i>The thirty-fifth Conference on Neural Information Processing Systems, 2021</i>. <b>NeurIPS 2021</b> [<a href="https://arxiv.org/abs/2111.02056">paper</a>] [<a href="https://github.com/apexrl/coil">code</a>]
 
