@@ -19,7 +19,7 @@ Yang Guan*, <b>Minghuan Liu*</b>, Weijun Hong, Weinan Zhang, Fei Fang, Guangjun 
 <br>
 <b>	Towards Applicable Reinforcement Learning: Improving the Generalization and Sample Efficiency with Policy Ensemble </b> <br>
 Zhengyu Yang, Kan Ren, Fangming Luo, <b>Minghuan Liu</b>, Weiqing Liu, Jiang Bian, Weinan Zhang, Dongsheng Li<br> 
-<i>The 31st International Joint Conference on Artificial Intelligence</i>. <b>IJCAI 2022</b> [<a href="to_be_public">paper</a>]
+<i>The 31st International Joint Conference on Artificial Intelligence</i>. <b>IJCAI 2022</b> [<a href="https://arxiv.org/abs/2205.09284">paper</a>] [<a href="https://seqml.github.io/eppo">code</a>]
 
 <br>
 <b>	Goal-Conditioned Reinforcement Learning: Problems and Solutions </b> <br>
