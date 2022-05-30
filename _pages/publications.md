@@ -14,7 +14,7 @@ Yang Guan*, <b>Minghuan Liu*</b>, Weijun Hong, Weinan Zhang, Fei Fang, Guangjun 
 <br>
 <b>	Plan Your Target and Learn Your Skills: Transferable State-Only Imitation Learning via Decoupled Policy Optimization </b> <br>
 <b>Minghuan Liu</b>, Zhengbang Zhu, Yuzheng Zhuang, Weinan Zhang, Jianye Hao, Yong Yu, Jun Wang<br> 
-<i>Thirty-ninth International Conference on Machine Learning</i>. <b>ICML 2022</b> [<a href="https://arxiv.org/abs/2111.02056">paper</a>]
+<i>Thirty-ninth International Conference on Machine Learning</i>. <b>ICML 2022</b> [<a href="https://arxiv.org/abs/2203.02214">paper</a>] [<a href="https://github.com/apexrl/DePO">code</a>]
 
 <br>
 <b>	Towards Applicable Reinforcement Learning: Improving the Generalization and Sample Efficiency with Policy Ensemble </b> <br>
