@@ -9,7 +9,12 @@ author_profile: true
 <b>	PerfectDou: Dominating DouDizhu with Perfect Information Distillation </b> <br>
 Yang Guan*, <b>Minghuan Liu*</b>, Weijun Hong, Weinan Zhang, Fei Fang, Guangjun Zeng, Yue Lin<br>
 \* Equal Contribution. <br>
-<i>ArXiv:2203.16406, 2022</i>. <b>Arxiv</b> [<a href="https://arxiv.org/abs/2203.16406">paper</a>]
+<i>The 36th Conference on Neural Information Processing Systems, 2022</i>. <b>NeurIPS 2022</b> [<a href="https://arxiv.org/abs/2203.16406">paper</a>] [code-to-be-public]
+
+<br>
+<b>	Reinforcement Learning with Automated Auxiliary Loss Search </b> <br>
+Tairan He, Yuge Zhang, Kan Ren, <b>Minghuan Liu</b>, Che Wang, Weinan Zhang, Dongsheng Li, Yuqing Yang.<br>
+<i>The 36th Conference on Neural Information Processing Systems, 2022</i>. <b>NeurIPS 2022</b> [paper-to-be-public]
 
 <br>
 <b>	Plan Your Target and Learn Your Skills: Transferable State-Only Imitation Learning via Decoupled Policy Optimization </b> <br>
@@ -31,7 +36,7 @@ Zhengyu Yang, Kan Ren, Xufang Luo, <b>Minghuan Liu</b>, Weiqing Liu, Jiang Bian,
 <b>	Curriculum Offline Imitation Learning </b> <br>
 <b>Minghuan Liu\*</b>, Hanye Zhao*, Zhengyu Yang, Jian Shen, Weinan Zhang, Li Zhao, Tie-Yan Liu<br> 
 \* Equal Contribution. <br> 
-<i>The thirty-fifth Conference on Neural Information Processing Systems, 2021</i>. <b>NeurIPS 2021</b> [<a href="https://arxiv.org/abs/2111.02056">paper</a>] [<a href="https://github.com/apexrl/coil">code</a>]
+<i>The 35th Conference on Neural Information Processing Systems, 2021</i>. <b>NeurIPS 2021</b> [<a href="https://arxiv.org/abs/2111.02056">paper</a>] [<a href="https://github.com/apexrl/coil">code</a>]
 
 <br>
 <b>	Learning to Build High-fidelity and Robust Environment Models </b> <br>
