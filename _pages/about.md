@@ -33,6 +33,7 @@ redirect_from:
 
 
 # Recent News
+* Sept. 15, 2022. Two papers accepted by NeurIPS 2022.
 * Apr. 21, 2022. One paper accepted by ICML 2022.
 * Apr. 21, 2022. Two papers accepted by IJCAI 2022.
 * Nov. 18, 2021. Become a small contributor to OpenAI gym :).
