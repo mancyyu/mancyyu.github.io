@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "CV/Bio"
-    url: /cv/
+  # - title: "CV/Bio"
+  #   url: /cv/
 
   - title: "Publications"
     url: /publications/
@@ -9,8 +9,8 @@ main:
 #   - title: "Talks"
 #     url: /talks/    
 
-  # - title: "Collections"
-  #  url: /collections/
+  - title: "Open-Sources"
+   url: /collections/
 
   #- title: "Demos"
   #  url: /demos/
