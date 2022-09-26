@@ -1,5 +1,5 @@
 ---
-title: "Collections"
+title: "Open-Sources"
 permalink: /collections/
 author_profile: true
 ---
